@@ -1,0 +1,6 @@
+{
+  "port": 8585,
+  "server": {
+    "baseDir": "./module_2"
+  }
+}
