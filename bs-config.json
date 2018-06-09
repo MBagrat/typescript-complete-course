@@ -1,6 +1,6 @@
 {
   "port": 8585,
   "server": {
-    "baseDir": "./module_2"
+    "baseDir": "./module_3"
   }
 }

@@ -1,4 +1,7 @@
 {
+  "author": "Bagrat Mukaelyan <bagrat.mukaelyan@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:MBagrat/typescript-complete-course.git",
   "name": "typescript-complete-course",
   "version": "1.0.0",
   "description": "",
@@ -10,7 +13,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1 ",
     "start": "lite-server"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }

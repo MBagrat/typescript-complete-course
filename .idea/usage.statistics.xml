@@ -28,7 +28,7 @@
         <counts>
           <entry key="gitignore" value="14" />
           <entry key="js" value="9" />
-          <entry key="json" value="66" />
+          <entry key="json" value="226" />
           <entry key="md" value="2" />
           <entry key="ts" value="2631" />
           <entry key="txt" value="25" />
@@ -37,7 +37,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="14" />
-          <entry key="JSON" value="59" />
+          <entry key="JSON" value="70" />
           <entry key="JavaScript" value="9" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="25" />
