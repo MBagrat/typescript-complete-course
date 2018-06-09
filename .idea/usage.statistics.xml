@@ -11,8 +11,8 @@
           <entry key="json" value="49" />
           <entry key="lock" value="3" />
           <entry key="map" value="6" />
-          <entry key="md" value="1" />
-          <entry key="ts" value="82" />
+          <entry key="md" value="7" />
+          <entry key="ts" value="91" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -22,9 +22,10 @@
           <entry key="HTML" value="9" />
           <entry key="JSON" value="17" />
           <entry key="JavaScript" value="52" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SourceMap" value="6" />
-          <entry key="TypeScript" value="82" />
+          <entry key="TypeScript" value="91" />
           <entry key="XML" value="1" />
           <entry key="tsconfig" value="32" />
           <entry key="yarn.lock" value="3" />
@@ -35,9 +36,9 @@
           <entry key="gitignore" value="14" />
           <entry key="js" value="9" />
           <entry key="json" value="227" />
-          <entry key="md" value="2" />
-          <entry key="ts" value="4842" />
-          <entry key="txt" value="81" />
+          <entry key="md" value="95" />
+          <entry key="ts" value="4857" />
+          <entry key="txt" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -45,9 +46,9 @@
           <entry key="Git file" value="14" />
           <entry key="JSON" value="71" />
           <entry key="JavaScript" value="9" />
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="81" />
-          <entry key="TypeScript" value="4842" />
+          <entry key="Markdown" value="95" />
+          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="TypeScript" value="4857" />
           <entry key="tsconfig" value="156" />
         </counts>
       </usages-collector>

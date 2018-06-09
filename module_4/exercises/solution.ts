@@ -5,10 +5,7 @@ const double = value => value * 2;
 console.log(double(10));
 
 // Exercise 2 - If only we could provide some default values...
-const exGreet = function (name: string = undefined): void {
-  if (name === undefined) {
-    name = "Max";
-  }
+const exGreet = function (name: string = "Bagrat"): void {
   console.log("Hello, " + name);
 };
 exGreet();

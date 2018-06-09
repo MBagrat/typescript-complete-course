@@ -4,10 +4,7 @@ var double = function (value) { return value * 2; };
 console.log(double(10));
 // Exercise 2 - If only we could provide some default values...
 var exGreet = function (name) {
-    if (name === void 0) { name = undefined; }
-    if (name === undefined) {
-        name = "Max";
-    }
+    if (name === void 0) { name = "Bagrat"; }
     console.log("Hello, " + name);
 };
 exGreet();
