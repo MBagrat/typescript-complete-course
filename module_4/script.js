@@ -13,7 +13,6 @@ function reset() {
   var variable = null;
   console.log(variable);
 }
-
 reset();
 console.log(variable);
 // Arrow Functions
@@ -54,7 +53,6 @@ var numbers = [1, 10, 99, -5];
 console.log(Math.max(33, 99, 10, -3));
 console.log(Math.max.apply(Math, numbers));
 console.log("2. REST");
-
 function makeArray(nmae) {
   var args = [];
   for (var _i = 1; _i < arguments.length; _i++) {
@@ -62,7 +60,6 @@ function makeArray(nmae) {
   }
   return args;
 }
-
 console.log(makeArray("Bagrat", 2, 3, 8));
 // Destructuring
 console.log("DESTRUCTURING");
@@ -83,3 +80,4 @@ var userName = "Max";
 // const greeting = "Hello, I'm " + userName + "This isn't cool";
 var greeting = " This is a heading\nI'm " + userName + ".\nThis is cool! ";
 console.log(greeting);
+//# sourceMappingURL=script.js.map

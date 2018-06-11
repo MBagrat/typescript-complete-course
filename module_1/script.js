@@ -1,4 +1,3 @@
-"use strict";
 var Greeter = /** @class */ (function () {
     function Greeter(message) {
         this.greeting = message;
@@ -15,3 +14,4 @@ button.onclick = function () {
     alert(greeter.greet());
 };
 document.body.appendChild(button);
+//# sourceMappingURL=script.js.map

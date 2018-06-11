@@ -1,4 +1,3 @@
-"use strict";
 // string
 var myName = 'Bagrat';
 // myName = 5;
@@ -32,26 +31,20 @@ var car = "BMW";
 console.log(car);
 car = { brand: "BMW", series: 3 };
 console.log(car);
-
 // functions
 function returnMyName() {
     return myName;
 }
-
 console.log(returnMyName());
-
 // void
 function sayHello() {
     console.log("Hello!");
 }
-
 sayHello();
-
 // arguments type
 function multiply(value1, value2) {
     return value1 * value2;
 }
-
 // console.log(multiply(5, "Bagrat"));
 console.log(multiply(5, 20));
 // function types
@@ -94,12 +87,10 @@ var finalValue = "Some Text";
 if (typeof finalValue == "string") {
     console.log("Final value is a string");
 }
-
 // never
 function neverReturn() {
     throw new Error();
 }
-
 // Nullable Types
 var canBeNull = 12;
 canBeNull = null;
@@ -108,3 +99,4 @@ var canAlsoBeNull;
 canAlsoBeNull = null;
 var canThisBeNull;
 canThisBeNull = 12;
+//# sourceMappingURL=script.js.map
