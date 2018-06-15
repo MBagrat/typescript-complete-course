@@ -4,52 +4,57 @@
     <session id="1718014950">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="LICENSE" value="1" />
-          <entry key="gitignore" value="7" />
-          <entry key="html" value="9" />
-          <entry key="js" value="55" />
-          <entry key="json" value="52" />
-          <entry key="lock" value="3" />
-          <entry key="map" value="6" />
-          <entry key="md" value="22" />
-          <entry key="ts" value="109" />
+          <entry key="LICENSE" value="3" />
+          <entry key="albertignore" value="1" />
+          <entry key="gitignore" value="8" />
+          <entry key="html" value="34" />
+          <entry key="js" value="132" />
+          <entry key="json" value="105" />
+          <entry key="lock" value="10" />
+          <entry key="log" value="2" />
+          <entry key="map" value="9" />
+          <entry key="md" value="25" />
+          <entry key="ts" value="207" />
           <entry key="xml" value="1" />
+          <entry key="yarn-integrity" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="7" />
-          <entry key="HTML" value="9" />
-          <entry key="JSON" value="18" />
-          <entry key="JavaScript" value="55" />
-          <entry key="Markdown" value="21" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SourceMap" value="6" />
-          <entry key="TypeScript" value="109" />
+          <entry key="Git file" value="8" />
+          <entry key="HTML" value="34" />
+          <entry key="JSON" value="55" />
+          <entry key="JavaScript" value="132" />
+          <entry key="Markdown" value="24" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="SourceMap" value="9" />
+          <entry key="TypeScript" value="203" />
           <entry key="XML" value="1" />
-          <entry key="tsconfig" value="34" />
-          <entry key="yarn.lock" value="3" />
+          <entry key="tsconfig" value="50" />
+          <entry key="yarn.lock" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="14" />
-          <entry key="js" value="9" />
-          <entry key="json" value="231" />
+          <entry key="html" value="208" />
+          <entry key="js" value="57" />
+          <entry key="json" value="301" />
           <entry key="md" value="136" />
-          <entry key="ts" value="7297" />
+          <entry key="ts" value="8182" />
           <entry key="txt" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="14" />
-          <entry key="JSON" value="72" />
-          <entry key="JavaScript" value="9" />
+          <entry key="HTML" value="208" />
+          <entry key="JSON" value="129" />
+          <entry key="JavaScript" value="57" />
           <entry key="Markdown" value="136" />
-          <entry key="PLAIN_TEXT" value="119" />
-          <entry key="TypeScript" value="7297" />
-          <entry key="tsconfig" value="159" />
+          <entry key="PLAIN_TEXT" value="141" />
+          <entry key="TypeScript" value="8160" />
+          <entry key="tsconfig" value="172" />
         </counts>
       </usages-collector>
     </session>

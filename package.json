@@ -8,10 +8,21 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "jspm": "^0.16.53",
     "lite-server": "^2.3.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1 ",
     "start": "lite-server"
+  },
+  "jspm": {
+    "directories": {
+      "packages": "module_6/module/jspm_packages"
+    },
+    "configFile": "module_6/module/config.js",
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "npm:typescript@^2.0.7"
+    }
   }
 }
