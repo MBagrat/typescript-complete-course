@@ -21,4 +21,3 @@ System.register(["./math/circle", "./math/rectangle"], function (exports_1, cont
         }
     };
 });
-//# sourceMappingURL=script.js.map

@@ -11,4 +11,3 @@ function controleMe(isTrue, somethingElse) {
     result = 33;
     return result;
 }
-//# sourceMappingURL=script.js.map

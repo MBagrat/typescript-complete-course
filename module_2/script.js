@@ -19,6 +19,7 @@ hobbies = [100];
 var address = ["Superstreet", 99];
 // enum
 var Color;
+// enum
 (function (Color) {
     Color[Color["Gray"] = 0] = "Gray";
     Color[Color["Green"] = 100] = "Green";
@@ -99,4 +100,3 @@ var canAlsoBeNull;
 canAlsoBeNull = null;
 var canThisBeNull;
 canThisBeNull = 12;
-//# sourceMappingURL=script.js.map

@@ -14,4 +14,3 @@ button.onclick = function () {
     alert(greeter.greet());
 };
 document.body.appendChild(button);
-//# sourceMappingURL=script.js.map
