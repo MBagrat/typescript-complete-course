@@ -183,5 +183,10 @@ jspm_packages/
 # next.js build output
 .next
 
-#custom
+# custom
 .albertignore
+
+# *.js and .js.map
+*.js
+!config.js
+*.js.map
